@@ -6,6 +6,12 @@ This addon reads elevation values from FONT objects and creates a terrain surfac
 
 ---
 
+# Download
+
+Download the latest addon ZIP file from the repository files.
+
+---
+
 # Features
 
 * Delaunay triangulation (TIN)
