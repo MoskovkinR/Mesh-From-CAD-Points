@@ -80,7 +80,8 @@ Generate the final terrain mesh directly inside Blender.
 # Video
 
 Short demo video:
-(link here)
+
+![Terrain](screenshots/terrain_generation.gif)
 
 Full workflow tutorial:
 (link here)
