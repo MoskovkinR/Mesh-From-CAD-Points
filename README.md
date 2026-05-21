@@ -6,6 +6,14 @@ This addon reads elevation values from FONT objects and creates a terrain surfac
 
 ---
 
+# Video
+
+Short demo video:
+
+![Terrain](screenshots/terrain_generation.gif)
+
+---
+
 # Download
 
 Download the latest addon ZIP file from the repository files.
@@ -74,17 +82,6 @@ Generate the final terrain mesh directly inside Blender.
 4. Click "Install"
 5. Select the ZIP file
 6. Enable the addon
-
----
-
-# Video
-
-Short demo video:
-
-![Terrain](screenshots/terrain_generation.gif)
-
-Full workflow tutorial:
-(link here)
 
 ---
 
